@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{41E6C6EF-B7F4-4CEC-803D-01D67ECD7C36}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\ecommerce-app2\\ecommerce-shop-app\\src\\services\\catalog\\catalog.api\\products\\updateproduct\\updateproductendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41E6C6EF-B7F4-4CEC-803D-01D67ECD7C36}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\products\\updateproduct\\updateproductendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{41E6C6EF-B7F4-4CEC-803D-01D67ECD7C36}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\ecommerce-app2\\ecommerce-shop-app\\src\\services\\catalog\\catalog.api\\products\\deleteproduct\\deleteproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41E6C6EF-B7F4-4CEC-803D-01D67ECD7C36}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\products\\deleteproduct\\deleteproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41E6C6EF-B7F4-4CEC-803D-01D67ECD7C36}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\ecommerce-app2\\ecommerce-shop-app\\src\\services\\catalog\\catalog.api\\products\\updateproduct\\updateproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41E6C6EF-B7F4-4CEC-803D-01D67ECD7C36}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\products\\updateproduct\\updateproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{41E6C6EF-B7F4-4CEC-803D-01D67ECD7C36}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\ecommerce-app2\\ecommerce-shop-app\\src\\services\\catalog\\catalog.api\\products\\deleteproduct\\deleteproductendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41E6C6EF-B7F4-4CEC-803D-01D67ECD7C36}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\products\\deleteproduct\\deleteproductendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UpdateProductHandler.cs",
-              "DocumentMoniker": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\Services\\Catalog\\Catalog.API\\Products\\UpdateProduct\\UpdateProductHandler.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Products\\UpdateProduct\\UpdateProductHandler.cs",
-              "ToolTip": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\Services\\Catalog\\Catalog.API\\Products\\UpdateProduct\\UpdateProductHandler.cs",
-              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Products\\UpdateProduct\\UpdateProductHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "DeleteProductHandler.cs",
+              "DocumentMoniker": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\Services\\Catalog\\Catalog.API\\Products\\DeleteProduct\\DeleteProductHandler.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Products\\DeleteProduct\\DeleteProductHandler.cs",
+              "ToolTip": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\Services\\Catalog\\Catalog.API\\Products\\DeleteProduct\\DeleteProductHandler.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Products\\DeleteProduct\\DeleteProductHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T15:16:27.396Z",
+              "WhenOpened": "2025-01-08T15:48:37.911Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UpdateProductEndpoint.cs",
-              "DocumentMoniker": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\Services\\Catalog\\Catalog.API\\Products\\UpdateProduct\\UpdateProductEndpoint.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Products\\UpdateProduct\\UpdateProductEndpoint.cs",
-              "ToolTip": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\Services\\Catalog\\Catalog.API\\Products\\UpdateProduct\\UpdateProductEndpoint.cs",
-              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Products\\UpdateProduct\\UpdateProductEndpoint.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBkAAAA0AAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "DeleteProductEndpoint.cs",
+              "DocumentMoniker": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\Services\\Catalog\\Catalog.API\\Products\\DeleteProduct\\DeleteProductEndpoint.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Products\\DeleteProduct\\DeleteProductEndpoint.cs",
+              "ToolTip": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\Services\\Catalog\\Catalog.API\\Products\\DeleteProduct\\DeleteProductEndpoint.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Products\\DeleteProduct\\DeleteProductEndpoint.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAzwBUAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T15:16:18.995Z",
+              "WhenOpened": "2025-01-08T15:48:30.14Z",
               "EditorCaption": ""
             }
           ]
