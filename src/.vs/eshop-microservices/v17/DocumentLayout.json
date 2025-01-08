@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{41E6C6EF-B7F4-4CEC-803D-01D67ECD7C36}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\ecommerce-app2\\ecommerce-shop-app\\src\\services\\catalog\\catalog.api\\products\\getproducts\\getproductshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41E6C6EF-B7F4-4CEC-803D-01D67ECD7C36}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\products\\getproducts\\getproductshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{41E6C6EF-B7F4-4CEC-803D-01D67ECD7C36}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\ecommerce-app2\\ecommerce-shop-app\\src\\services\\catalog\\catalog.api\\products\\getproducts\\getproductsendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41E6C6EF-B7F4-4CEC-803D-01D67ECD7C36}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\products\\getproducts\\getproductsendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E6C6EF-B7F4-4CEC-803D-01D67ECD7C36}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\ecommerce-app2\\ecommerce-shop-app\\src\\services\\catalog\\catalog.api\\products\\getproducts\\getproductshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41E6C6EF-B7F4-4CEC-803D-01D67ECD7C36}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\products\\getproducts\\getproductshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{41E6C6EF-B7F4-4CEC-803D-01D67ECD7C36}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\ecommerce-app2\\ecommerce-shop-app\\src\\services\\catalog\\catalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,30 +22,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "GetProductsHandler.cs",
               "DocumentMoniker": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\Services\\Catalog\\Catalog.API\\Products\\GetProducts\\GetProductsHandler.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Products\\GetProducts\\GetProductsHandler.cs",
               "ToolTip": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\Services\\Catalog\\Catalog.API\\Products\\GetProducts\\GetProductsHandler.cs",
               "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Products\\GetProducts\\GetProductsHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-08T13:45:13.67Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "GetProductsEndpoint.cs",
               "DocumentMoniker": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\Services\\Catalog\\Catalog.API\\Products\\GetProducts\\GetProductsEndpoint.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Products\\GetProducts\\GetProductsEndpoint.cs",
               "ToolTip": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\Services\\Catalog\\Catalog.API\\Products\\GetProducts\\GetProductsEndpoint.cs",
               "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Products\\GetProducts\\GetProductsEndpoint.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-08T13:45:05.346Z",
               "EditorCaption": ""
