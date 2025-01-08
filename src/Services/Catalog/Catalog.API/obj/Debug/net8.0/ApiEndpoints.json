@@ -94,5 +94,39 @@
     "EndpointName": "GetProductById",
     "Description": "Get Product by ID",
     "Summary": "Get Product by ID"
+  },
+  {
+    "ContainingType": "Catalog.API.Products.GetProductByCategory.GetProductByCategoryEndpoint\u002B\u003C\u003Ec",
+    "Method": "\u003CAddRoutes\u003Eb__0_0",
+    "RelativePath": "products/category/{category}",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "category",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Catalog.API.Products.GetProductByCategory.GetProductByCategoryResponse",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "application/problem\u002Bjson"
+        ],
+        "StatusCode": 400
+      }
+    ],
+    "EndpointName": "GetProductByCategory",
+    "Description": "Get Product By Category",
+    "Summary": "Get Product By Category"
   }
 ]
