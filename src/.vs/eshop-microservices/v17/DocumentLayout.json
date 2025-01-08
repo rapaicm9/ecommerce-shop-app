@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{41E6C6EF-B7F4-4CEC-803D-01D67ECD7C36}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\ecommerce-app2\\ecommerce-shop-app\\src\\services\\catalog\\catalog.api\\products\\getproductbyid\\getproductbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41E6C6EF-B7F4-4CEC-803D-01D67ECD7C36}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\products\\getproductbyid\\getproductbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E6C6EF-B7F4-4CEC-803D-01D67ECD7C36}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\ecommerce-app2\\ecommerce-shop-app\\src\\services\\catalog\\catalog.api\\products\\getproductbyid\\getproductbyidendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41E6C6EF-B7F4-4CEC-803D-01D67ECD7C36}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\products\\getproductbyid\\getproductbyidendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{41E6C6EF-B7F4-4CEC-803D-01D67ECD7C36}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\ecommerce-app2\\ecommerce-shop-app\\src\\services\\catalog\\catalog.api\\products\\getproducts\\getproductsendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41E6C6EF-B7F4-4CEC-803D-01D67ECD7C36}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\products\\getproducts\\getproductsendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,11 +30,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetProductByIdHandler.cs",
+              "DocumentMoniker": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\Services\\Catalog\\Catalog.API\\Products\\GetProductById\\GetProductByIdHandler.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Products\\GetProductById\\GetProductByIdHandler.cs",
+              "ToolTip": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\Services\\Catalog\\Catalog.API\\Products\\GetProductById\\GetProductByIdHandler.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Products\\GetProductById\\GetProductByIdHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T14:26:25.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "GetProductByIdEndpoint.cs",
+              "DocumentMoniker": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\Services\\Catalog\\Catalog.API\\Products\\GetProductById\\GetProductByIdEndpoint.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Products\\GetProductById\\GetProductByIdEndpoint.cs",
+              "ToolTip": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\Services\\Catalog\\Catalog.API\\Products\\GetProductById\\GetProductByIdEndpoint.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Products\\GetProductById\\GetProductByIdEndpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T14:26:14.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "GetProductsHandler.cs",
               "DocumentMoniker": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\Services\\Catalog\\Catalog.API\\Products\\GetProducts\\GetProductsHandler.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Products\\GetProducts\\GetProductsHandler.cs",
@@ -39,7 +73,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "GetProductsEndpoint.cs",
               "DocumentMoniker": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\Services\\Catalog\\Catalog.API\\Products\\GetProducts\\GetProductsEndpoint.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Products\\GetProducts\\GetProductsEndpoint.cs",
@@ -52,7 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\Services\\Catalog\\Catalog.API\\Program.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Program.cs",
