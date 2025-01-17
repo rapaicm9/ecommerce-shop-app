@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5624A408-8F8A-4995-BCB5-D38EC2E1D081}|Services\\Basket\\Basket.API\\Basket.API.csproj|c:\\ecommerce-app2\\ecommerce-shop-app\\src\\services\\basket\\basket.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5624A408-8F8A-4995-BCB5-D38EC2E1D081}|Services\\Basket\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket\\basket.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5624A408-8F8A-4995-BCB5-D38EC2E1D081}|Services\\Basket\\Basket.API\\Basket.API.csproj|c:\\ecommerce-app2\\ecommerce-shop-app\\src\\services\\basket\\basket.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5624A408-8F8A-4995-BCB5-D38EC2E1D081}|Services\\Basket\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket\\basket.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5624A408-8F8A-4995-BCB5-D38EC2E1D081}|Services\\Basket\\Basket.API\\Basket.API.csproj|c:\\ecommerce-app2\\ecommerce-shop-app\\src\\services\\basket\\basket.api\\data\\cachedbasketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5624A408-8F8A-4995-BCB5-D38EC2E1D081}|Services\\Basket\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket\\basket.api\\data\\cachedbasketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCB50D0-FA39-4C5E-A898-8C88F07D95EE}|docker-compose.dcproj|c:\\ecommerce-app2\\ecommerce-shop-app\\src\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DDCB50D0-FA39-4C5E-A898-8C88F07D95EE}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCB50D0-FA39-4C5E-A898-8C88F07D95EE}|docker-compose.dcproj|c:\\ecommerce-app2\\ecommerce-shop-app\\src\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DDCB50D0-FA39-4C5E-A898-8C88F07D95EE}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\Services\\Basket\\Basket.API\\appsettings.json",
-              "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\appsettings.json",
-              "ToolTip": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\Services\\Basket\\Basket.API\\appsettings.json",
-              "RelativeToolTip": "Services\\Basket\\Basket.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-17T21:52:32.305Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "CachedBasketRepository.cs",
               "DocumentMoniker": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\Services\\Basket\\Basket.API\\Data\\CachedBasketRepository.cs",
               "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\Data\\CachedBasketRepository.cs",
               "ToolTip": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\Services\\Basket\\Basket.API\\Data\\CachedBasketRepository.cs",
               "RelativeToolTip": "Services\\Basket\\Basket.API\\Data\\CachedBasketRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAABPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T21:27:54.591Z",
+              "WhenOpened": "2025-01-17T22:10:13.9Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\Services\\Basket\\Basket.API\\Program.cs",
-              "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\Program.cs",
-              "ToolTip": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\Services\\Basket\\Basket.API\\Program.cs",
-              "RelativeToolTip": "Services\\Basket\\Basket.API\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBoAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T19:29:51.951Z",
+              "DocumentIndex": 1,
+              "Title": "docker-compose.override.yml",
+              "DocumentMoniker": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\docker-compose.override.yml",
+              "RelativeDocumentMoniker": "docker-compose.override.yml",
+              "ToolTip": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\docker-compose.override.yml",
+              "RelativeToolTip": "docker-compose.override.yml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-01-17T21:57:46.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-01-17T21:57:16.03Z",
               "EditorCaption": ""
             }
           ]
