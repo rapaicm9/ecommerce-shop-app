@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4B5D2B90-0AA9-421D-A7DB-8E18CD5ECC89}|Services\\Discount\\Discount.Grpc\\Discount.Grpc.csproj|c:\\ecommerce-app2\\ecommerce-shop-app\\src\\services\\discount\\discount.grpc\\services\\greeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B5D2B90-0AA9-421D-A7DB-8E18CD5ECC89}|Services\\Discount\\Discount.Grpc\\Discount.Grpc.csproj|solutionrelative:services\\discount\\discount.grpc\\services\\greeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B5D2B90-0AA9-421D-A7DB-8E18CD5ECC89}|Services\\Discount\\Discount.Grpc\\Discount.Grpc.csproj|c:\\ecommerce-app2\\ecommerce-shop-app\\src\\services\\discount\\discount.grpc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B5D2B90-0AA9-421D-A7DB-8E18CD5ECC89}|Services\\Discount\\Discount.Grpc\\Discount.Grpc.csproj|solutionrelative:services\\discount\\discount.grpc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DDCB50D0-FA39-4C5E-A898-8C88F07D95EE}|docker-compose.dcproj|c:\\ecommerce-app2\\ecommerce-shop-app\\src\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DDCB50D0-FA39-4C5E-A898-8C88F07D95EE}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4B5D2B90-0AA9-421D-A7DB-8E18CD5ECC89}|Services\\Discount\\Discount.Grpc\\Discount.Grpc.csproj|c:\\ecommerce-app2\\ecommerce-shop-app\\src\\services\\discount\\discount.grpc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{4B5D2B90-0AA9-421D-A7DB-8E18CD5ECC89}|Services\\Discount\\Discount.Grpc\\Discount.Grpc.csproj|solutionrelative:services\\discount\\discount.grpc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B5D2B90-0AA9-421D-A7DB-8E18CD5ECC89}|Services\\Discount\\Discount.Grpc\\Discount.Grpc.csproj|c:\\ecommerce-app2\\ecommerce-shop-app\\src\\services\\discount\\discount.grpc\\discount.grpc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{4B5D2B90-0AA9-421D-A7DB-8E18CD5ECC89}|Services\\Discount\\Discount.Grpc\\Discount.Grpc.csproj|solutionrelative:services\\discount\\discount.grpc\\discount.grpc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{DDCB50D0-FA39-4C5E-A898-8C88F07D95EE}|docker-compose.dcproj|c:\\ecommerce-app2\\ecommerce-shop-app\\src\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DDCB50D0-FA39-4C5E-A898-8C88F07D95EE}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D2B90-0AA9-421D-A7DB-8E18CD5ECC89}|Services\\Discount\\Discount.Grpc\\Discount.Grpc.csproj|c:\\ecommerce-app2\\ecommerce-shop-app\\src\\services\\discount\\discount.grpc\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4B5D2B90-0AA9-421D-A7DB-8E18CD5ECC89}|Services\\Discount\\Discount.Grpc\\Discount.Grpc.csproj|solutionrelative:services\\discount\\discount.grpc\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D2B90-0AA9-421D-A7DB-8E18CD5ECC89}|Services\\Discount\\Discount.Grpc\\Discount.Grpc.csproj|c:\\ecommerce-app2\\ecommerce-shop-app\\src\\services\\discount\\discount.grpc\\services\\discountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5D2B90-0AA9-421D-A7DB-8E18CD5ECC89}|Services\\Discount\\Discount.Grpc\\Discount.Grpc.csproj|solutionrelative:services\\discount\\discount.grpc\\services\\discountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D2B90-0AA9-421D-A7DB-8E18CD5ECC89}|Services\\Discount\\Discount.Grpc\\Discount.Grpc.csproj|c:\\ecommerce-app2\\ecommerce-shop-app\\src\\services\\discount\\discount.grpc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5D2B90-0AA9-421D-A7DB-8E18CD5ECC89}|Services\\Discount\\Discount.Grpc\\Discount.Grpc.csproj|solutionrelative:services\\discount\\discount.grpc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\Services\\Discount\\Discount.Grpc\\Program.cs",
-              "RelativeDocumentMoniker": "Services\\Discount\\Discount.Grpc\\Program.cs",
-              "ToolTip": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\Services\\Discount\\Discount.Grpc\\Program.cs",
-              "RelativeToolTip": "Services\\Discount\\Discount.Grpc\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T15:55:02.507Z",
+              "DocumentIndex": 0,
+              "Title": "docker-compose.override.yml",
+              "DocumentMoniker": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\docker-compose.override.yml",
+              "RelativeDocumentMoniker": "docker-compose.override.yml",
+              "ToolTip": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\docker-compose.override.yml",
+              "RelativeToolTip": "docker-compose.override.yml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAgwEoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-01-27T23:40:57.73Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\Services\\Discount\\Discount.Grpc\\appsettings.json",
-              "RelativeDocumentMoniker": "Services\\Discount\\Discount.Grpc\\appsettings.json",
-              "ToolTip": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\Services\\Discount\\Discount.Grpc\\appsettings.json",
-              "RelativeToolTip": "Services\\Discount\\Discount.Grpc\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-20T15:54:44.695Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GreeterService.cs",
-              "DocumentMoniker": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\Services\\Discount\\Discount.Grpc\\Services\\GreeterService.cs",
-              "RelativeDocumentMoniker": "Services\\Discount\\Discount.Grpc\\Services\\GreeterService.cs",
-              "ToolTip": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\Services\\Discount\\Discount.Grpc\\Services\\GreeterService.cs",
-              "RelativeToolTip": "Services\\Discount\\Discount.Grpc\\Services\\GreeterService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T15:53:26.8Z",
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-01-27T23:40:29.967Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Discount.Grpc",
-              "DocumentMoniker": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\Services\\Discount\\Discount.Grpc\\Discount.Grpc.csproj",
-              "RelativeDocumentMoniker": "Services\\Discount\\Discount.Grpc\\Discount.Grpc.csproj",
-              "ToolTip": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\Services\\Discount\\Discount.Grpc\\Discount.Grpc.csproj",
-              "RelativeToolTip": "Services\\Discount\\Discount.Grpc\\Discount.Grpc.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-20T15:51:11.014Z",
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\Services\\Discount\\Discount.Grpc\\Dockerfile",
+              "RelativeDocumentMoniker": "Services\\Discount\\Discount.Grpc\\Dockerfile",
+              "ToolTip": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\Services\\Discount\\Discount.Grpc\\Dockerfile",
+              "RelativeToolTip": "Services\\Discount\\Discount.Grpc\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-27T23:38:52.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\Services\\Discount\\Discount.Grpc\\appsettings.json",
+              "RelativeDocumentMoniker": "Services\\Discount\\Discount.Grpc\\appsettings.json",
+              "ToolTip": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\Services\\Discount\\Discount.Grpc\\appsettings.json",
+              "RelativeToolTip": "Services\\Discount\\Discount.Grpc\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-27T23:22:02.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\Services\\Discount\\Discount.Grpc\\Program.cs",
+              "RelativeDocumentMoniker": "Services\\Discount\\Discount.Grpc\\Program.cs",
+              "ToolTip": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\Services\\Discount\\Discount.Grpc\\Program.cs",
+              "RelativeToolTip": "Services\\Discount\\Discount.Grpc\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T22:42:02.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DiscountService.cs",
+              "DocumentMoniker": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\Services\\Discount\\Discount.Grpc\\Services\\DiscountService.cs",
+              "RelativeDocumentMoniker": "Services\\Discount\\Discount.Grpc\\Services\\DiscountService.cs",
+              "ToolTip": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\Services\\Discount\\Discount.Grpc\\Services\\DiscountService.cs",
+              "RelativeToolTip": "Services\\Discount\\Discount.Grpc\\Services\\DiscountService.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwD4AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T22:39:03.08Z",
               "EditorCaption": ""
             }
           ]
