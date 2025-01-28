@@ -1,10 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Diagnostics;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using Ordering.Infrastructure.Data;
+using Ordering.Infrastructure.Data.Interceptors;
 
 namespace Ordering.Infrastructure
 {
@@ -16,6 +15,14 @@ namespace Ordering.Infrastructure
             var connectionString = configuration.GetConnectionString("Database");
 
             // TODO: Add services related to EF Core and DB Context
+            services.AddScoped<ISaveChangesInterceptor, AuditableEntityInterceptor>();
+            services.AddScoped<ISaveChangesInterceptor, DispatchDomainEventInterceptor>();
+
+            services.AddDbContext<ApplicationDbContext>((sp, opts) =>
+            {
+                opts.AddInterceptors(sp.GetServices<ISaveChangesInterceptor>());
+                opts.UseSqlServer(connectionString);
+            });
 
             return services;
         }

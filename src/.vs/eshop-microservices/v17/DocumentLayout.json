@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{87CB1A90-F016-40FB-9EAE-68A6FC4DDD59}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\ecommerce-app2\\ecommerce-shop-app\\src\\services\\ordering\\ordering.domain\\events\\orderupdatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87CB1A90-F016-40FB-9EAE-68A6FC4DDD59}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\events\\orderupdatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{87CB1A90-F016-40FB-9EAE-68A6FC4DDD59}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\ecommerce-app2\\ecommerce-shop-app\\src\\services\\ordering\\ordering.domain\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87CB1A90-F016-40FB-9EAE-68A6FC4DDD59}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87CB1A90-F016-40FB-9EAE-68A6FC4DDD59}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\ecommerce-app2\\ecommerce-shop-app\\src\\services\\ordering\\ordering.domain\\events\\ordercreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87CB1A90-F016-40FB-9EAE-68A6FC4DDD59}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\events\\ordercreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D8C42AE-E83C-41FC-BF15-83350ECA89C7}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|c:\\ecommerce-app2\\ecommerce-shop-app\\src\\services\\ordering\\ordering.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D8C42AE-E83C-41FC-BF15-83350ECA89C7}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:services\\ordering\\ordering.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87CB1A90-F016-40FB-9EAE-68A6FC4DDD59}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\ecommerce-app2\\ecommerce-shop-app\\src\\services\\ordering\\ordering.domain\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87CB1A90-F016-40FB-9EAE-68A6FC4DDD59}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A3D1BB8-3C8F-4BA4-A7C1-687B6C6B7B93}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|c:\\ecommerce-app2\\ecommerce-shop-app\\src\\services\\ordering\\ordering.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3D1BB8-3C8F-4BA4-A7C1-687B6C6B7B93}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|solutionrelative:services\\ordering\\ordering.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87CB1A90-F016-40FB-9EAE-68A6FC4DDD59}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\ecommerce-app2\\ecommerce-shop-app\\src\\services\\ordering\\ordering.domain\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87CB1A90-F016-40FB-9EAE-68A6FC4DDD59}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A85858A-FAB5-4555-9CCF-A6733F7C497A}|Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj|c:\\ecommerce-app2\\ecommerce-shop-app\\src\\services\\ordering\\ordering.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A85858A-FAB5-4555-9CCF-A6733F7C497A}|Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj|solutionrelative:services\\ordering\\ordering.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87CB1A90-F016-40FB-9EAE-68A6FC4DDD59}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\ecommerce-app2\\ecommerce-shop-app\\src\\services\\ordering\\ordering.domain\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87CB1A90-F016-40FB-9EAE-68A6FC4DDD59}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A85858A-FAB5-4555-9CCF-A6733F7C497A}|Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj|c:\\ecommerce-app2\\ecommerce-shop-app\\src\\services\\ordering\\ordering.infrastructure\\data\\interceptors\\dispatchdomaineventinterceptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A85858A-FAB5-4555-9CCF-A6733F7C497A}|Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj|solutionrelative:services\\ordering\\ordering.infrastructure\\data\\interceptors\\dispatchdomaineventinterceptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A85858A-FAB5-4555-9CCF-A6733F7C497A}|Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj|c:\\ecommerce-app2\\ecommerce-shop-app\\src\\services\\ordering\\ordering.infrastructure\\data\\interceptors\\auditableentityinterceptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A85858A-FAB5-4555-9CCF-A6733F7C497A}|Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj|solutionrelative:services\\ordering\\ordering.infrastructure\\data\\interceptors\\auditableentityinterceptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,79 +39,79 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "OrderUpdatedEvent.cs",
-              "DocumentMoniker": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\Services\\Ordering\\Ordering.Domain\\Events\\OrderUpdatedEvent.cs",
-              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Domain\\Events\\OrderUpdatedEvent.cs",
-              "ToolTip": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\Services\\Ordering\\Ordering.Domain\\Events\\OrderUpdatedEvent.cs",
-              "RelativeToolTip": "Services\\Ordering\\Ordering.Domain\\Events\\OrderUpdatedEvent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T03:31:15.69Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "OrderCreatedEvent.cs",
-              "DocumentMoniker": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\Services\\Ordering\\Ordering.Domain\\Events\\OrderCreatedEvent.cs",
-              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Domain\\Events\\OrderCreatedEvent.cs",
-              "ToolTip": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\Services\\Ordering\\Ordering.Domain\\Events\\OrderCreatedEvent.cs",
-              "RelativeToolTip": "Services\\Ordering\\Ordering.Domain\\Events\\OrderCreatedEvent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T03:29:26.169Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\Services\\Ordering\\Ordering.Domain\\Models\\Order.cs",
               "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Domain\\Models\\Order.cs",
               "ToolTip": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\Services\\Ordering\\Ordering.Domain\\Models\\Order.cs",
               "RelativeToolTip": "Services\\Ordering\\Ordering.Domain\\Models\\Order.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAzwCMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T03:12:18.585Z",
+              "WhenOpened": "2025-01-28T19:32:45.095Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "OrderItem.cs",
-              "DocumentMoniker": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\Services\\Ordering\\Ordering.Domain\\Models\\OrderItem.cs",
-              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Domain\\Models\\OrderItem.cs",
-              "ToolTip": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\Services\\Ordering\\Ordering.Domain\\Models\\OrderItem.cs",
-              "RelativeToolTip": "Services\\Ordering\\Ordering.Domain\\Models\\OrderItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\Services\\Ordering\\Ordering.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\Services\\Ordering\\Ordering.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T03:11:35.46Z",
+              "WhenOpened": "2025-01-28T19:29:59.547Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\Services\\Ordering\\Ordering.Domain\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Domain\\Models\\Product.cs",
-              "ToolTip": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\Services\\Ordering\\Ordering.Domain\\Models\\Product.cs",
-              "RelativeToolTip": "Services\\Ordering\\Ordering.Domain\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAbAAAAAAAAAA==",
+              "Title": "DispatchDomainEventInterceptor.cs",
+              "DocumentMoniker": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\Services\\Ordering\\Ordering.Infrastructure\\Data\\Interceptors\\DispatchDomainEventInterceptor.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Infrastructure\\Data\\Interceptors\\DispatchDomainEventInterceptor.cs",
+              "ToolTip": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\Services\\Ordering\\Ordering.Infrastructure\\Data\\Interceptors\\DispatchDomainEventInterceptor.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Infrastructure\\Data\\Interceptors\\DispatchDomainEventInterceptor.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwCcAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T03:09:37.969Z",
+              "WhenOpened": "2025-01-28T19:19:52.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\Services\\Ordering\\Ordering.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\Services\\Ordering\\Ordering.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T19:13:36.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\Services\\Ordering\\Ordering.API\\Program.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.API\\Program.cs",
+              "ToolTip": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\Services\\Ordering\\Ordering.API\\Program.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T19:13:23.75Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\Services\\Ordering\\Ordering.Domain\\Models\\Customer.cs",
-              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Domain\\Models\\Customer.cs",
-              "ToolTip": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\Services\\Ordering\\Ordering.Domain\\Models\\Customer.cs",
-              "RelativeToolTip": "Services\\Ordering\\Ordering.Domain\\Models\\Customer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "AuditableEntityInterceptor.cs",
+              "DocumentMoniker": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\Services\\Ordering\\Ordering.Infrastructure\\Data\\Interceptors\\AuditableEntityInterceptor.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Infrastructure\\Data\\Interceptors\\AuditableEntityInterceptor.cs",
+              "ToolTip": "C:\\ecommerce-app2\\ecommerce-shop-app\\src\\Services\\Ordering\\Ordering.Infrastructure\\Data\\Interceptors\\AuditableEntityInterceptor.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Infrastructure\\Data\\Interceptors\\AuditableEntityInterceptor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAABoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T03:09:08.571Z",
+              "WhenOpened": "2025-01-28T19:02:39.143Z",
               "EditorCaption": ""
             }
           ]
